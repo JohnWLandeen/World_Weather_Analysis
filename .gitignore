@@ -131,8 +131,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# NYT
-NYT_API_KEY = "Your_API_Key_here"
 
-# OpenWeather
-OpenWeather_API_KEY = "d06b68014bd0ecaf076be3c5eaab4b42"
