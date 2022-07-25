@@ -7,4 +7,4 @@ In this analysis we utilize API to store a large number of various desirable loc
 
 To find all relevant information on each city, an info box template is contructed for formatting in dataframe iteration. We then store the results in hotel info variable as well as the latitudes and longitudes in the longitudes variable. Both of these variables are placed in the gmaps marker layer for creating a map with the desired info on our ideal locations. 
 
-![alt text](Vacation_Itinerary/terminal_travel_map_markers.PNG)
+![alt text](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
